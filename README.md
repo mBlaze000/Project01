@@ -4,7 +4,7 @@
 <http://p1.burkeweb.com>
 
 ## Description
-An HTML document that contains a little more information about me.
+Project 1: An HTML document that contains a little more information about me.
 
 ## Details for teaching team
 I'm using the Bootstrap framework for styling of the page. After running into problems initializing apps with PagodaBox, I am now hosting using JumpStarter.
